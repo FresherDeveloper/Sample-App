@@ -1,5 +1,12 @@
 # sample_app
-
+ ## Instructions on how to build and run your project
+  -I used  vs code as my ide
+  -in vs code
+  -using the "Run" option- "Run Without Debugging"
+ ## Summary of my Project
+   - I fetch and post data from jsonplaceholder website
+  ## challenges I faced
+    - Local Persistence implementation
 A new Flutter project.
 
 ## Getting Started
